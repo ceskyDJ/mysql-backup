@@ -4,7 +4,7 @@ Script for backing up local MySQL database
 
 ## Dependencies
 **bc**
-```
+```sh
 # Debian based OS
 sudo apt install bc
 
@@ -21,7 +21,7 @@ sudo mv mysql-backup.sh /usr/local/bin/mysql-backup
 ```
 
 ## Usage
-```
+```sh
 mysql-backup DIRECTORY [OPTIONS]
 ```
 
