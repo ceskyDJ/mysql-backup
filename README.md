@@ -2,6 +2,16 @@
 
 Script for backing up local MySQL database
 
+## Dependencies
+**bc**
+```
+# Debian based OS
+sudo apt install bc
+
+# SUSE based OS
+sudo zypper install bc
+```
+
 ## Installation
 ```sh
 git clone https://github.com/ceskyDJ/mysql-backup
