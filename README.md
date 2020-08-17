@@ -3,6 +3,7 @@
 Script for backing up local MySQL database
 
 ## Dependencies
+You need to install these packages. Without them script won't work properly.
 **bc**
 ```sh
 # Debian based OS
